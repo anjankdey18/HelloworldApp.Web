@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HelloworldApp.Web.props" />
+</Project>
